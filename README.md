@@ -3,11 +3,11 @@ This is my first repository.
 
 ## Some programing language I've learned
 ### **C**
-'printf("helloworld");'
+' printf("helloworld"); '
 ### **C++**
-'cout>>"helloworld">>endl;'
+' cout>>"helloworld">>endl; '
 ### **python**
-'print("helloworld")'
+' print("helloworld") '
 
 ## Some Tools I can use
 1. Matlab
